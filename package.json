@@ -1,0 +1,14 @@
+{
+  "name": "test-snowpack",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Ming-der Wang",
+  "license": "MIT",
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  },
+  "scripts": {
+    "dev": "sp dev",
+    "build": "sp build"
+  }
+}
